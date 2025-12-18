@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Application", "J
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Infrastructure", "JSDeposito.Infrastructure\JSDeposito.Infrastructure.csproj", "{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Blazor", "JSDeposito.Blazor\JSDeposito.Blazor.csproj", "{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

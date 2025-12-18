@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "JSDeposito.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "JSDeposito.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JSDeposito.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JSDeposito.Application.dll": {}
+        }
+      },
+      "JSDeposito.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/JSDeposito.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JSDeposito.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "JSDeposito.Application/1.0.0": {
+      "type": "project",
+      "path": "../JSDeposito.Application/JSDeposito.Application.csproj",
+      "msbuildProject": "../JSDeposito.Application/JSDeposito.Application.csproj"
+    },
+    "JSDeposito.Domain/1.0.0": {
+      "type": "project",
+      "path": "../JSDeposito.Domain/JSDeposito.Domain.csproj",
+      "msbuildProject": "../JSDeposito.Domain/JSDeposito.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "JSDeposito.Application >= 1.0.0",
+      "JSDeposito.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\LEANDRO\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Application\\JSDeposito.Application.csproj": {
+              "projectPath": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Application\\JSDeposito.Application.csproj"
+            },
+            "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\JSDeposito.Domain.csproj": {
+              "projectPath": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\JSDeposito.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
