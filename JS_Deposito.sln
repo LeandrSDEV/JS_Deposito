@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Api", "JSDeposito.Api\JSDeposito.Api.csproj", "{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Domain", "JSDeposito.Domain\JSDeposito.Domain.csproj", "{3C7ACDE5-0818-4EA4-944A-52BA40958C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Application", "JSDeposito.Application\JSDeposito.Application.csproj", "{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSDeposito.Infrastructure", "JSDeposito.Infrastructure\JSDeposito.Infrastructure.csproj", "{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7ACDE5-0818-4EA4-944A-52BA40958C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7ACDE5-0818-4EA4-944A-52BA40958C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7ACDE5-0818-4EA4-944A-52BA40958C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7ACDE5-0818-4EA4-944A-52BA40958C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6465EC4-9333-4A76-AE2A-20F840A45ED0}
+	EndGlobalSection
+EndGlobal
