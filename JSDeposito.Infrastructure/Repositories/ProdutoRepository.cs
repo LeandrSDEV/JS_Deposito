@@ -1,11 +1,7 @@
 ﻿using JSDeposito.Application.Interfaces;
 using JSDeposito.Domain.Entities;
 using JSDeposito.Infrastructure.Data.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace JSDeposito.Infrastructure.Repositories
 {
@@ -13,8 +9,17 @@ namespace JSDeposito.Infrastructure.Repositories
     {
         private readonly AppDbContext _context;
 
-        public Task<IEnumerable<Produto>> ObterTodos()
-            => _context.Produtos.Where(p => p.Ativo).ToListAsync();
-    }
+        public ProdutoRepository(AppDbContext context)
+        {
+            _context = context;
+        }
 
+        public async Task<IEnumerable<Produto>> ObterTodos()
+        {
+            return await _context.Produtos
+                .Where(p => p.Ativo)
+                .AsNoTracking()
+                .ToListAsync();
+        }
+    }
 }

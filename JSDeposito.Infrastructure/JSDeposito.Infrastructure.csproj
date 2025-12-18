@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.21" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="8.0.21" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\JSDeposito.Application\JSDeposito.Application.csproj" />
     <ProjectReference Include="..\JSDeposito.Domain\JSDeposito.Domain.csproj" />
   </ItemGroup>
