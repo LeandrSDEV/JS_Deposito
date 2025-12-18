@@ -1,2 +1,15 @@
 ﻿@page "/carrinho"
-@* @inject CarrinhoService Carrinho *@
+@inject CarrinhoService Carrinho
+
+<MudList>
+    @foreach (var item in Carrinho.Itens)
+    {
+        <MudListItem>
+            @item.Produto.Nome - @item.Quantidade - R$ @item.Subtotal
+        </MudListItem>
+    }
+</MudList>
+
+<MudText Typo="Typo.h6">
+    Total: R$ @Carrinho.Total
+</MudText>

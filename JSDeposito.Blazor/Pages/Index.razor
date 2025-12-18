@@ -1,6 +1,12 @@
 ﻿@page "/"
 @using JSDeposito.Application.DTOs
 @inject HttpClient Http
+@inject CarrinhoService Carrinho
+
+<MudButton OnClick="() => Carrinho.Adicionar(p)">
+    Comprar
+</MudButton>
+
 
 <MudGrid>
     @if (produtos is null)

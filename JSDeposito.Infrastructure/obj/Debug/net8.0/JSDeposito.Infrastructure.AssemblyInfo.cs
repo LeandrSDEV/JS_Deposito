@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSDeposito.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99dcacdebd09433f602a1b5e7988b9979f16d74a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+659098a7ffd634183c79e8de75700f0166dfd9cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSDeposito.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSDeposito.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

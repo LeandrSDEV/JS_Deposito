@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMudServices();
 
+builder.Services.AddScoped<CarrinhoService>();
+
 builder.Services.AddHttpClient("API", c =>
 {
     c.BaseAddress = new Uri("https://localhost:5001/");
