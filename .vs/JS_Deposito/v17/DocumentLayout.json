@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Desenvolvedor\\JS_Deposito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}|JSDeposito.Application\\JSDeposito.Application.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85EECED-A907-4C7D-8A06-ADCD6912DEA7}|JSDeposito.Application\\JSDeposito.Application.csproj|solutionrelative:jsdeposito.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\data\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\data\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoService.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Application\\Services\\ProdutoService.cs",
-              "RelativeDocumentMoniker": "JSDeposito.Application\\Services\\ProdutoService.cs",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Application\\Services\\ProdutoService.cs",
-              "RelativeToolTip": "JSDeposito.Application\\Services\\ProdutoService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "JSDeposito.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T20:39:10.305Z",
+              "WhenOpened": "2025-12-18T20:48:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Mappings\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Data\\Mappings\\ProdutoMap.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Mappings\\ProdutoMap.cs",
+              "RelativeToolTip": "JSDeposito.Infrastructure\\Data\\Mappings\\ProdutoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:46:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:45:15.138Z",
               "EditorCaption": ""
             }
           ]
