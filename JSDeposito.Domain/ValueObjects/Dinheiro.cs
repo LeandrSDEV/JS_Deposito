@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JSDeposito.Domain.ValueObjects
 {
-    internal class Dinheiro
+    public class Dinheiro
     {
     }
 }
