@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Desenvolvedor\\JS_Deposito\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\valueobjects\\distancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\valueobjects\\distancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\valueobjects\\dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\valueobjects\\dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\valueobjects\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\valueobjects\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.domain\\emuns\\pedidostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7ACDE5-0818-4EA4-944A-52BA40958C39}|JSDeposito.Domain\\JSDeposito.Domain.csproj|solutionrelative:jsdeposito.domain\\emuns\\pedidostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\jsdeposito.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\jsdeposito.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,6 +47,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Distancia.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Distancia.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\ValueObjects\\Distancia.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Distancia.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\ValueObjects\\Distancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:36:05.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dinheiro.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Dinheiro.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\ValueObjects\\Dinheiro.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Dinheiro.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\ValueObjects\\Dinheiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:35:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Endereco.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\ValueObjects\\Endereco.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\ValueObjects\\Endereco.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\ValueObjects\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:35:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoStatus.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Emuns\\PedidoStatus.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\Emuns\\PedidoStatus.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Emuns\\PedidoStatus.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\Emuns\\PedidoStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:35:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:34:39.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "JSDeposito.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:33:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "JSDeposito.Infrastructure",
               "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
               "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
@@ -35,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\appsettings.json",
               "RelativeDocumentMoniker": "JSDeposito.Api\\appsettings.json",
