@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Desenvolvedor\\JS_Deposito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\identity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\identity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\migrations\\20251218214335_primeiramigracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\migrations\\20251218214335_primeiramigracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|solutionrelative:jsdeposito.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\jsdeposito.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\jsdeposito.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.api\\jsdeposito.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|solutionrelative:jsdeposito.api\\jsdeposito.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D3D3D2-4200-4AD2-90BF-F4C7CC7EFF38}|JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj|solutionrelative:jsdeposito.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|solutionrelative:jsdeposito.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA360010-956A-4A9E-AA1A-73C0EDDBA2CA}|JSDeposito.Api\\JSDeposito.Api.csproj|solutionrelative:jsdeposito.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\pages\\carrinho.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\pages\\carrinho.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|c:\\desenvolvedor\\js_deposito\\jsdeposito.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3E2FF-D39C-4D9F-B29E-F82D01C745F3}|JSDeposito.Blazor\\JSDeposito.Blazor.csproj|solutionrelative:jsdeposito.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Identity\\Usuario.cs",
-              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Identity\\Usuario.cs",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Identity\\Usuario.cs",
-              "RelativeToolTip": "JSDeposito.Infrastructure\\Identity\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:43:46.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20251218214335_PrimeiraMigracao.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Migrations\\20251218214335_PrimeiraMigracao.cs",
-              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Migrations\\20251218214335_PrimeiraMigracao.cs",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Migrations\\20251218214335_PrimeiraMigracao.cs",
-              "RelativeToolTip": "JSDeposito.Infrastructure\\Migrations\\20251218214335_PrimeiraMigracao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "JSDeposito.Api\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:43:36.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "JSDeposito.Infrastructure\\Data\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:36:08.636Z",
+              "WhenOpened": "2025-12-18T22:05:38.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JSDeposito.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
-              "RelativeToolTip": "JSDeposito.Infrastructure\\JSDeposito.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-18T21:33:32.143Z",
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\Routes.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:03:55.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JSDeposito.Api.csproj",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\JSDeposito.Api.csproj",
-              "RelativeDocumentMoniker": "JSDeposito.Api\\JSDeposito.Api.csproj",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\JSDeposito.Api.csproj",
-              "RelativeToolTip": "JSDeposito.Api\\JSDeposito.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-18T21:33:27.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "JSDeposito.Api\\appsettings.json",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\appsettings.json",
-              "RelativeToolTip": "JSDeposito.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-18T21:10:58.91Z",
-              "EditorCaption": ""
+              "Title": "admin.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\admin.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Pages\\admin.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\admin.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Pages\\admin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:02:16.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\Program.cs",
-              "RelativeDocumentMoniker": "JSDeposito.Api\\Program.cs",
-              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Api\\Program.cs",
-              "RelativeToolTip": "JSDeposito.Api\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:17:51.724Z",
+              "Title": "login.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\login.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Pages\\login.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\login.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Pages\\login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:02:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "carrinho.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\carrinho.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Pages\\carrinho.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\carrinho.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Pages\\carrinho.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:01:29.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Pages\\Index.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Pages\\Index.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:01:10.418Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:00:14.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "JSDeposito.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:59:15.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "JSDeposito.Blazor\\Program.cs",
+              "ToolTip": "C:\\Desenvolvedor\\JS_Deposito\\JSDeposito.Blazor\\Program.cs",
+              "RelativeToolTip": "JSDeposito.Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:57:01.795Z"
             }
           ]
         }

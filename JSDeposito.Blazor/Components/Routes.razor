@@ -1,11 +1,12 @@
-﻿@using JSDeposito.Blazor.Components.Account.Shared
-<Router AppAssembly="typeof(Program).Assembly">
+﻿<Router AppAssembly="@typeof(Program).Assembly">
     <Found Context="routeData">
-        <AuthorizeRouteView RouteData="routeData" DefaultLayout="typeof(Layout.MainLayout)">
+        <AuthorizeRouteView RouteData="@routeData"
+                            DefaultLayout="@typeof(Layout.MainLayout)">
             <NotAuthorized>
-                <RedirectToLogin />
+                <MudText>Não autorizado</MudText>
             </NotAuthorized>
         </AuthorizeRouteView>
-        <FocusOnNavigate RouteData="routeData" Selector="h1" />
+
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
     </Found>
 </Router>
